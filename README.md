@@ -102,7 +102,7 @@ caregiver_app_project/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/xtp111/CareVault.git
+git clone https://github.com/poojasukhdeve-project/carevault.git 
 cd caregiver_app_project
 ```
 
